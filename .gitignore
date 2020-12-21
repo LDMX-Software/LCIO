@@ -1,0 +1,9 @@
+/*install*/
+/*build*/
+*.bak
+.cproject
+.project
+.pydevproject
+.settings/
+/target/
+.classpath
